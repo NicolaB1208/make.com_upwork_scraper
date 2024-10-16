@@ -24,7 +24,7 @@ Have a straightforward way to get all the interesting job postings, go through t
 
 ### How to use it: ###
 
-Download the `.json` file and import it as a blueprint in a new scenario in make.com.
+Download the `makeBlueprint_upwork_Webscraper_toSheets.json` file and import it as a blueprint in a new scenario in make.com.
 
 <img width="789" alt="Screenshot 2024-10-16 at 22 16 30" src="https://github.com/user-attachments/assets/1c798a50-1e15-4bd4-9246-5fa018f29b0d">
 
